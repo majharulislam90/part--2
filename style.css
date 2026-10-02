@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.form-section {
+    width: 100%; 
+    padding: 80px 0;
+
+}
+
+.container {
+    width: 1140px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    width: 800px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left, .right {
+
+}
